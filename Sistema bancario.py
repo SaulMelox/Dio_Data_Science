@@ -6,7 +6,7 @@ menu = """
 ∥ [4] Sair            ∥ 
 ∥====================== 
 """
-
+#commit
 saldo = 0
 limite = 500
 extrato = ""
